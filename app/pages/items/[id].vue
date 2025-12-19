@@ -31,6 +31,7 @@
             text-base
             md:text-lg
             font-bold
+            mt-10
           "
         >
           {{ item.title }}

@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as a}from"./Dmhn-PEM.js";const r={};function s(c,e){return a(),o("div",null,[...e[0]||(e[0]=[t("h1",null,"Index Page",-1)])])}const _=n(r,[["render",s]]);export{_ as default};

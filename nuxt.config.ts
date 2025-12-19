@@ -6,5 +6,15 @@ export default defineNuxtConfig({
   css: [
     '@/assets/css/main.css',
   ],
+    ssr: false,
+
+  nitro: {
+    preset: 'github-pages',
+  },
+
+  app: {
+    baseURL: '/our-roadmap/',   // ← ИМЯ РЕПОЗИТОРИЯ
+    buildAssetsDir: '/assets/', // ← ВАЖНО
+  },
 
 })

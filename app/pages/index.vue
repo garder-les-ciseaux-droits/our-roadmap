@@ -30,7 +30,7 @@
     </header>
 
 
-    <main class="h-[100svh] bg-[url('/assets/images/main-back2.png')] md:bg-auto bg-cover bg-center flex">
+    <main class="h-auto bg-[url('/assets/images/main-bg.png')] bg-cover  bg-end flex">
       <div class="relative mx-auto w-full max-w-screen-md py-6 flex justify-center items-center mt-4">
           <img class="absolute left-1/2 -translate-x-1/2 top-0 inset-y-0 h-full pointer-events-none select-none" alt="" src="/assets/svg/line.svg"/>
 

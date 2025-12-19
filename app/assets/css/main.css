@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Zing';
+    font-style: normal; 
+    font-weight: normal;
+    src: url('../css/Font/zing.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Grenze';
+    font-style: normal; 
+    font-weight: normal;
+    src: url('../css/Font/grenze.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Kaisei';
+    font-style: normal; 
+    font-weight: normal;
+    src: url('../css/Font/kaisei.ttf') format('truetype');
+
+}
+
+
+@font-face {
+    font-family: 'Atkinson';
+    font-style: normal; 
+    font-weight: normal;
+    src: url('../css/Font/atkinson.ttf') format('truetype');
+}
+

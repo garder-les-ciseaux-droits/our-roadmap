@@ -1,7 +1,7 @@
 <template>
-  <div class="min-h-screen flex flex-col bg-black">
+  <div class="min-h-screen flex flex-col bg-black overfow-y-hidden">
     <main class="h-[100svh] flex ">
-      <div class="relative mx-auto  w-full max-w-screen-md px-2 py-6   bg-[url('/assets/images/main-bg.png')] bg-center bg-cover  flex  flex-col justify-center items-center space-y-4">
+      <div class="relative mx-auto h-auto w-full max-w-screen-md px-2 py-6   bg-[url('/assets/images/main-bg.png')] bg-end bg-auto  flex  flex-col justify-center items-center space-y-4">
         
       
         

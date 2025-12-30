@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen flex justify-center items-center bg-black overflow-hidden">
-    <main class="w-full flex justify-center">
+    <main class="w-full flex justify-center grow">
 
   
       <div

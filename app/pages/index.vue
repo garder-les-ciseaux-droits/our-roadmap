@@ -2,7 +2,7 @@
 
 <template>
   <div class="min-h-screen flex flex-col  overflow-y-auto bg-black">
-    <header class="h-[100svh] flex">
+    <header class="min-h-[100svh] flex">
       <div class="relative mx-auto max-w-screen-md px-2 py-6  items-center flex  bg-[url('/assets/images/head-bg.png')] bg-center bg-cover">
           <img class="w-full max-w-none absolute bottom-0 min-w-full left-1/2 -translate-x-1/2 pointer-events-none select-none"  alt="" src="../assets/images/flowers.png"/>
           <nav class="absolute top-6 w-72 h-10 left-1/2 -translate-x-1/2 mx-auto rounded-full bg-white text-black text-md text-center flex items-center justify-center">
@@ -30,7 +30,7 @@
     </header>
 
 
-    <main class="h-auto bg-[url('/assets/images/main-bg.png')] bg-cover  bg-end flex">
+    <main class="h-auto bg-[url('/assets/images/main-bg.png')] bg-cover  bg-end flex grow">
       <div class="relative mx-auto w-full max-w-screen-md py-6 flex justify-center items-center mt-4">
           <img class="absolute left-1/2 -translate-x-1/2 top-0 inset-y-0 h-full pointer-events-none select-none" alt="" src="/assets/svg/line.svg"/>
 
